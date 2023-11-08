@@ -4,11 +4,11 @@ Welcome to the repository for my assignment at Norquest College. This jupyter no
 
 ### Problem Statement
 
-My goal is to predict the future stock prices of Disney using historical data and the Prophet library.
+My goal is to predict the future stock prices of Disney using historical data and Prophet library.
 
 ### Solution
 
-I have developed a stock prediction model using the Prophet library to forecast Disney stock prices.
+I have developed a stock prediction model using the Prophet library to forecast Disney stock prices in Sagemaker Studio Lab (instead of google colab).
 
 ### Repository Structure
 
